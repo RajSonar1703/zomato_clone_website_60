@@ -1,0 +1,8 @@
+//optional class name in zomato project
+hero-section  ==> header
+link ==> links
+navbar-menu-container ==> container
+hero-section-logo ==>logo-1
+
+
+1:08:02
